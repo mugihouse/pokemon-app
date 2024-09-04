@@ -1,8 +1,10 @@
 .card {
   width: 290px;
+  height: 350px;
   box-shadow: 2px 8px 21px -2px;
   border-radius: 10px;
   background-color: white;
+  padding-bottom: 10px;
 }
 
 .cardName {
@@ -14,4 +16,5 @@
 
 .cardInfo {
   text-align: center;
+  margin: 10px;
 }
